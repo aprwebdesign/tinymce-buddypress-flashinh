@@ -1,4 +1,3 @@
-<script>
 $(window).load(function() {	
 	 
 	$("[aria-label='Insert/edit link']").on('click touchstart', function () {
@@ -8,4 +7,4 @@ $(window).load(function() {
     });
 	
 	
-	});</script>
+	});
